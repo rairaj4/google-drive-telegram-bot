@@ -3,11 +3,15 @@ class config:
     APP_ID = "6914790"
     API_HASH = "1f0f502870240fa9121cfbb45b384cf9"
     DATABASE_URL = "postgres://tejcsnznvzlbel:697be2f8fc99fc020cf6bcc99e8c26d7e4ac3d5d32d485c9b1fade22d989e80f@ec2-34-202-54-225.compute-1.amazonaws.com:5432/dc3bi3k1f53qlc"
-    SUDO_USERS = "1389009050 " # Sepearted by space.
+    SUDO_USERS = "1389009050" # Sepearted by space.
     SUPPORT_CHAT_LINK = ""
     DOWNLOAD_DIRECTORY = "./downloads/"
-    
+    G_DRIVE_CLIENT_ID = "537770373088-p188fedjvn9amkt04f2o694ob533a9ma.apps.googleusercontent.com"
+    G_DRIVE_CLIENT_SECRET = "y_8NIan4R5YOGN3lVWr0fu64"
 
+
+
+   
 
 class BotCommands:
   Download = ['download', 'dl']
