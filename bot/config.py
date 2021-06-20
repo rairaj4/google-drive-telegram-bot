@@ -6,8 +6,7 @@ class config:
     SUDO_USERS = "" # Sepearted by space.
     SUPPORT_CHAT_LINK = "1389009050"
     DOWNLOAD_DIRECTORY = "./downloads/"
-    G_DRIVE_CLIENT_ID = "https://console.cloud.google.com/billing/enable?project=theta-function-317408&redirect=%2Fsql%2Finstances%3Fpli%3D1%26creatingProject%3Dtrue%26project%3Dtheta-function-317408%26folder%3D%26organizationId%3D%26supportedpurview%3Dproject&supportedpurview=project"
-    G_DRIVE_CLIENT_SECRET = ""
+    
 
 
 class BotCommands:
